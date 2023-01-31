@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bertustenhoor
 - 👀 I’m interested in fullstack development / javascript
-- 🌱 I’m currently learning fullstack development @zerotomastery
+- 🌱 I’m currently learning fullstack development @zerotomastery and studying IT @ Hanze Hogeschool Groningen
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 How to reach me: If you want, you will..
 
